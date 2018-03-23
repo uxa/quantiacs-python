@@ -1,4 +1,4 @@
-# quantiacs-python
+# quantiacs-python (Python 3)
 Python version of [Quantiacs](https://www.quantiacs.com/Home.aspx) toolbox and sample trading strategies.
 
 The Quantiacs Toolbox helps you with the development and the backtesting of your trading algorithms. 
